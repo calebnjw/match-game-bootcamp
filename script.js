@@ -117,7 +117,7 @@ const makeDeck = () => {
     }
   }
 
-  return newD eck;
+  return newDeck;
 };
 
 // function to output messages
